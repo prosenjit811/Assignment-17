@@ -1,0 +1,64 @@
+.bx{
+	background-color: greenyellow;
+	min-height: 200px;
+}
+.box{
+	background-color: darkred;
+	min-height: 50px;
+}
+p{
+	color: #fff;
+}
+
+.bt{
+	background-color: green;
+	min-height: 150px;
+	margin-top: 50px;
+}
+
+.boxx{
+	margin-top: 50px;
+}
+.box2{
+	min-height: 150px;
+	background-color: green;
+}
+.box3{
+	min-height: 120px;
+	background-color: red;
+}
+
+
+/*Our services start*/
+.services{
+	padding-top: 60px;
+	background-color: #f4f4f4;
+}
+.ser_1{
+	padding: 30px 25px;
+	background-color: #fff;
+}
+.s_img{}
+.s_img img{
+/*	width: 100%;*/
+}
+.s_text{}
+.title{
+	font-size: 30px;
+	letter-spacing: 10px;
+	margin: 35px 0;
+}
+.text{
+	font-size: 19px;
+	line-height: 35px;
+	color: #637988;
+}
+
+
+
+
+
+
+
+
+/*Our services end*/
